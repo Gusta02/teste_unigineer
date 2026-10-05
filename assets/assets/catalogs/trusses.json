@@ -1,0 +1,53 @@
+[
+  {
+    "manufacturer": "Generico",
+    "model": "TR 8644",
+    "designation": "TR 8644",
+    "height_cm": 8,
+    "base_cm": 8,
+    "pitch_cm": 20,
+    "commercial_length_m": 12,
+    "top_diameter_mm": 6,
+    "diagonal_diameter_mm": 4.2,
+    "bottom_diameter_mm": 4.2,
+    "top_steel_fyk_mpa": 600,
+    "diagonal_steel_fyk_mpa": 600,
+    "bottom_steel_fyk_mpa": 600,
+    "mass_kg_m": null,
+    "source": "Catalogo inicial editavel; confirmar fabricante."
+  },
+  {
+    "manufacturer": "Generico",
+    "model": "TR 12645",
+    "designation": "TR 12645",
+    "height_cm": 12,
+    "base_cm": 8,
+    "pitch_cm": 20,
+    "commercial_length_m": 12,
+    "top_diameter_mm": 6,
+    "diagonal_diameter_mm": 4.2,
+    "bottom_diameter_mm": 5,
+    "top_steel_fyk_mpa": 600,
+    "diagonal_steel_fyk_mpa": 600,
+    "bottom_steel_fyk_mpa": 600,
+    "mass_kg_m": null,
+    "source": "Catalogo inicial editavel; confirmar fabricante."
+  },
+  {
+    "manufacturer": "Generico",
+    "model": "TR 20756",
+    "designation": "TR 20756",
+    "height_cm": 20,
+    "base_cm": 8,
+    "pitch_cm": 20,
+    "commercial_length_m": 12,
+    "top_diameter_mm": 7,
+    "diagonal_diameter_mm": 5,
+    "bottom_diameter_mm": 6,
+    "top_steel_fyk_mpa": 600,
+    "diagonal_steel_fyk_mpa": 600,
+    "bottom_steel_fyk_mpa": 600,
+    "mass_kg_m": null,
+    "source": "Catalogo inicial editavel; confirmar fabricante."
+  }
+]

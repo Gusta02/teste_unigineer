@@ -1,0 +1,32 @@
+[
+  {
+    "manufacturer": "Generico",
+    "line": "Planilha nervurada",
+    "model": "H35 HF5 L45 C35",
+    "type": "cubeta plastica reutilizavel",
+    "h_cm": 35,
+    "hf_cm": 5,
+    "lx_cm": 45,
+    "ly_cm": 45,
+    "cx_cm": 35,
+    "cy_cm": 35,
+    "material": "plastico reutilizavel",
+    "source": "Catalogo inicial editavel; confirmar fabricante.",
+    "notes": "Nao usar como catalogo comercial sem conferencia da ficha tecnica."
+  },
+  {
+    "manufacturer": "RIO Formas",
+    "line": "650x650x210",
+    "model": "H26 HF5 L65 C60",
+    "type": "cubeta plastica reutilizavel",
+    "h_cm": 26,
+    "hf_cm": 5,
+    "lx_cm": 65,
+    "ly_cm": 65,
+    "cx_cm": 60,
+    "cy_cm": 60,
+    "material": "plastico reutilizavel",
+    "source": "Catalogo inicial editavel; confirmar fabricante.",
+    "notes": "Nao usar como catalogo comercial sem conferencia da ficha tecnica."
+  }
+]
